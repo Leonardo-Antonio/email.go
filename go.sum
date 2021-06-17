@@ -1,0 +1,5 @@
+github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible h1:jdpOPRN1zP63Td1hDQbZW73xKmzDvZHzVdNYxhnTMDA=
+github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible/go.mod h1:1c7szIrayyPPB/987hsnvNzLushdWf4o/79s3P08L8A=
+github.com/xhit/go-simple-mail v2.2.2+incompatible h1:Hm2VGfLqiQJ/NnC8SYsrPOPyVYIlvP2kmnotP4RIV74=
+github.com/xhit/go-simple-mail v2.2.2+incompatible/go.mod h1:I8Ctg6vIJZ+Sv7k/22M6oeu/tbFumDY0uxBuuLbtU7Y=
+github.com/xhit/go-simple-mail/v2 v2.9.1/go.mod h1:kA1XbQfCI4JxQ9ccSN6VFyIEkkugOm7YiPkA5hKiQn4=
